@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Abdussamed 👋
 
-<!--
-**abdussamedulutas/abdussamedulutas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Software Engineer with 7+ years of experience building
+and scaling high-traffic web platforms — exam systems serving 700+
+concurrent users, 17-language architectures, and real-time infrastructure
+over WebSockets/WebRTC.
 
-Here are some ideas to get you started:
+I gravitate toward the infrastructure work others avoid: compilers,
+parsers, binary protocols, and the low-level plumbing that makes
+systems fast and debuggable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Featured Projects
+
+- **[saqut](https://github.com/abdussamedulutas/saqut)** — A compiler
+  built as a toolbox, not a black box. Procedural C-family language with
+  a register-based bytecode VM, LSP support, opcode-level profiler, and
+  deterministic execution. Written in C++, published on npm.
+- **[HemexJS](https://github.com/abdussamedulutas/HemexJS)** — A C++
+  lexer/parser toolkit for building custom language tooling.
+
+## 🧰 Stack
+
+**Backend:** Node.js · Go · PHP/Laravel · C++
+**Frontend:** React · TypeScript
+**Data & Infra:** PostgreSQL · Redis · SQLite · AWS/Azure · Linux
+
+## 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/abdussamed-ulutas/) ·
+abdussamedulutas@yandex.com
