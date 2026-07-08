@@ -15,8 +15,10 @@ systems fast and debuggable.
   built as a toolbox, not a black box. Procedural C-family language with
   a register-based bytecode VM, LSP support, opcode-level profiler, and
   deterministic execution. Written in C++, published on npm.
-- **[HemexJS](https://github.com/abdussamedulutas/HemexJS)** — A C++
-  lexer/parser toolkit for building custom language tooling.
+- **[HemexJS](https://github.com/abdussamedulutas/HemexJS)** — A
+  low-level lexing/parsing library for JavaScript with a layered,
+  transaction-style position system (begin/accept/reject) for clean
+  backtracking. [Published on npm](https://www.npmjs.com/package/@saqut/hemex).
 
 ## 🧰 Stack
 
